@@ -43,7 +43,9 @@ plt.imshow(image_rgb)
 plt.title("Original Image")
 plt.axis("off")
 ```
-![Screenshot 2024-11-16 193326](https://github.com/user-attachments/assets/9752114b-2ccb-4aad-889a-cc73a2a73f93)
+
+![Screenshot 2024-11-16 230808](https://github.com/user-attachments/assets/9547e445-7ba0-41e5-bf87-fedb8f362b28)
+
 
 # Use Opening operation:
 ```
@@ -53,7 +55,8 @@ plt.imshow(opening_image_rgb)
 plt.title("Opening Operation")
 plt.axis("off")
 ```
-![Screenshot 2024-11-16 193334](https://github.com/user-attachments/assets/35d61866-3b8b-4002-b6d2-655c3dcf9bb7)
+![Screenshot 2024-11-16 230514](https://github.com/user-attachments/assets/af17063e-608a-48a4-84d9-21e4c7e29d8c)
+
 
 
 # Use Closing Operation
@@ -65,7 +68,8 @@ plt.title("Closing Operation")
 plt.axis("off")
 
 ```
-![Screenshot 2024-11-16 193344](https://github.com/user-attachments/assets/367b833e-a935-4939-b7b9-09fd6c49e58d)
+![Screenshot 2024-11-16 230521](https://github.com/user-attachments/assets/59652641-9e8b-47cc-9972-beff9e5a653e)
+
 
 
 ### Result:
